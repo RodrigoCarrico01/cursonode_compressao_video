@@ -8,6 +8,13 @@
 - ffmpeg version from 2019.
 - Optional: nodemon (to facilitate development).
 
+### Cloning the Project and Opening in VSCode
+1. Open a terminal and navigate to the directory where you want to clone the project.
+2. Run the following command to clone the repository: ```git clone <repository-url>``` *Replace <repository-url> with the actual URL of the GitHub repository.*
+3. After cloning, navigate into the project folder: ```cd <project-folder>```
+4. Open the project in Visual Studio Code. 
+
+
 ### ffmpeg Installation
 1. Go to this website: ``https://www.videohelp.com/software/ffmpeg/old-versions``
 2. Download the recommended ffmpeg version from 2019: `ffmpeg-20191126-59d264b-win64-static.zip`
@@ -55,6 +62,12 @@ _______________________________________________________________________
 - Node.js e npm instalados.
 - Versão do ffmpeg de 2019.
 - Opcional: nodemon (para facilitar o desenvolvimento).
+
+### Clonar o Projeto e Abrir no VSCode
+1. Abra um terminal e navegue até ao diretório onde pretende clonar o projeto.
+2. Execute o seguinte comando para clonar o repositório: ```git clone <repository-url>``` *Substitua <repository-url> pelo URL real do repositório GitHub.*
+3. Após clonar, entre na pasta do projeto: ```cd <project-folder>```
+4. Abra o projeto no Visual Studio Code.
 
 ### Instalação do ffmpeg
 1. Entrar neste website: ``https://www.videohelp.com/software/ffmpeg/old-versions``
